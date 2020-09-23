@@ -4,10 +4,10 @@ const byte rows = 4; //number of rows of keypad
 const byte cols = 4; //number of columns of keypad
 
 char keys[rows][cols] = { //The Keys on the keypad in the same order of keypad is mentioned
-  {'7', '8', '9', '/'},
-  {'4', '5', '6', 'X'},
-  {'1', '2', '3', '-'},
-  {' ', '0', '=', '+'}
+  {'1', '2', '3', 'A'},
+  {'4', '5', '6', 'B'},
+  {'7', '8', '9', 'C'},
+  {'*', '0', '#', 'D'}
 };
 
 byte rowPins[rows] = {9, 8, 7, 6}; //pin number to which row pins of keypad are connected starting from pin A of keypad
