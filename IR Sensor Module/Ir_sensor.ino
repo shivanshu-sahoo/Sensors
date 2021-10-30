@@ -7,7 +7,7 @@ int led =2;
 int ir_value=0;
 
 void setup() {
-Serial.begin(9600);
+Serial.begin(115400);
 pinMode(led,OUTPUT);//setting led pin as output
 pinMode(ir_sensor,INPUT);//setting ir_sensor pin as input
 
