@@ -1,5 +1,5 @@
 
-# Tindog-website
+# Sensors
 This Repo provides you information about commonly used sensors and actuators and how to interface them with arduino.
 # How can you contribute:
 Contributions for Hacktoberfest 2021 are welcome 🎉🎉In general, we follow the "fork-and-pull" Git workflow.
